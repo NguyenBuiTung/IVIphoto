@@ -1,0 +1,434 @@
+﻿<?xml version="1.0"?>
+<Temp>
+
+  <EIF VERSION="2.4" ID="S1F1" NAME="Are You There Request">
+  </EIF>
+
+
+
+  <EIF VERSION="2.4" ID="S1F2" NAME="Are You There Data">
+    <ELEMENT>
+      <EQPID></EQPID>
+      <EQPNAME></EQPNAME>
+      <PROCID></PROCID>
+      <ORGID></ORGID>
+      <LINEID></LINEID>
+    </ELEMENT>
+  </EIF>
+
+
+  <EIF VERSION="2.4" ID="S1F3" NAME="Equipment Status Send">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+    <ITEM>
+      <EQPSTATUS></EQPSTATUS>
+    </ITEM>
+  </EIF>
+
+
+  <EIF VERSION="2.4" ID="S1F4" NAME="Equipment Status Acknowledge">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+    <ITEM>
+      <ACK></ACK>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S2F3" NAME="Link Test Request">
+  </EIF >
+
+
+  <EIF VERSION="2.4" ID="S2F4" NAME="Link Test Response">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+  </EIF>
+
+
+  <EIF VERSION="2.4" ID="S2F17" NAME="Date and Time Request">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S2F18" NAME="Date and Time Data">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+    <ITEM>
+      <TIME></TIME>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S2F25" NAME="Loopback diagnostics Test Request">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+    <ITEM>
+      <AS></AS>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S2F26" NAME="Loopback diagnostics Test Acknowledge">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+    <ITEM>
+      <AS></AS>
+    </ITEM>
+  </EIF>
+
+
+  <EIF VERSION="2.4" ID="S2F31" NAME="Date and Time Send">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+    <ITEM>
+      <TIME></TIME>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S2F32" NAME="Date and Time Acknowledge">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+    <ITEM>
+      <ACK></ACK>
+    </ITEM>
+  </EIF>
+
+
+  <EIF VERSION="2.4" ID="S5F1" NAME="Alarm Set Report Send">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+    <ITEM>
+      <SUBITEMLIST  COUNT="n">
+        <ALCD></ALCD>
+        <ALNAME></ALNAME>
+        <ALTX></ALTX>
+      </SUBITEMLIST>
+    </ITEM>
+  </EIF>
+
+
+  <EIF VERSION="2.4" ID="S5F2" NAME="Alarm Set Report Acknowledge">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+    <ITEM>
+      <ACK></ACK>
+    </ITEM>
+  </EIF>
+
+
+  <EIF VERSION="2.4" ID="S5F3" NAME="Alarm Reset Report Send">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+    <ITEM>
+      <SUBITEMLIST  COUNT="n">
+        <ALCD></ALCD>
+        <ALNAME></ALNAME>
+        <ALTX></ALTX>
+      </SUBITEMLIST>
+    </ITEM>
+  </EIF>
+
+
+  <EIF VERSION="2.4" ID="S5F4" NAME="Alarm Reset Report Acknowledge">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+    <ITEM>
+      <ACK></ACK>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S6F1" NAME="Inspection(Processing) Data Send">
+    <ELEMENT>
+      <TID></TID>
+      <WOID></WOID>
+      <ORGID></ORGID>
+      <LINEID></LINEID>
+      <EQPID></EQPID>
+      <PROCID></PROCID>
+      <SETID></SETID>
+      <MODEL>
+        <ID></ID>
+        <NAME></NAME>
+        <SUFFIX></SUFFIX>
+      </MODEL>
+    </ELEMENT>
+    <ITEM>
+      <SUBITEMLIST  COUNT="n">
+        <NAME></NAME>
+        <VALUE>
+	   <JUDGE></JUDGE>
+	</VALUE>
+      </SUBITEMLIST>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S6F2" NAME="Inspection(Processing) Data Acknowledge">
+    <ELEMENT>
+      <TID></TID>
+      <WOID></WOID>
+      <ORGID></ORGID>
+      <LINEID></LINEID>
+      <EQPID></EQPID>
+      <PROCID></PROCID>
+      <SETID></SETID>
+      <MODEL>
+        <ID></ID>
+        <NAME></NAME>
+        <SUFFIX></SUFFIX>
+      </MODEL>
+    </ELEMENT>
+    <ITEM>
+      <ACK></ACK>
+      <REASON></REASON>
+    </ITEM>
+  </EIF>
+
+
+  <EIF VERSION="2.4" ID="S6F5" NAME="Product Data Send">
+    <ELEMENT>
+      <TID></TID>
+      <WOID></WOID>
+      <ORGID></ORGID>
+      <LINEID></LINEID>
+      <EQPID></EQPID>
+      <PROCID></PROCID>
+      <SETID></SETID>
+      <MODEL>
+        <ID></ID>
+        <NAME></NAME>
+        <SUFFIX></SUFFIX>
+      </MODEL>
+    </ELEMENT>
+    <ITEM>
+      <SUBITEMLIST  COUNT="n">
+        <NAME></NAME>
+        <VALUE></VALUE>
+      </SUBITEMLIST>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S6F6" NAME="Product Data Acknowledge">
+    <ELEMENT>
+      <TID></TID>
+      <WOID></WOID>
+      <ORGID></ORGID>
+      <LINEID></LINEID>
+      <EQPID></EQPID>
+      <PROCID></PROCID>
+      <SETID></SETID>
+      <MODEL>
+        <ID></ID>
+        <NAME></NAME>
+        <SUFFIX></SUFFIX>
+      </MODEL>
+    </ELEMENT>
+    <ITEM>
+      <ACK></ACK>
+      <REASON></REASON>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S6F7" NAME="Daily Product Model Request">
+    <ELEMENT>
+      <ORG></ORG>
+      <EQPID></EQPID>
+      <LINEID></LINEID>
+      <PROCID></PROCID>
+      <PRODUCT_PLAN></PRODUCT_PLAN>
+    </ELEMENT>
+    <ITEM>
+      <SUBITEMLIST  MODEL_COUNT="n">
+        <MODEL NAME="" SPEC_COUNT="n">
+          <NAME></NAME>
+          <VALUE></VALUE>
+        </MODEL>
+      </SUBITEMLIST>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S6F8" NAME="Daily Product Model Acknowledge">
+    <ELEMENT>
+      <ORG></ORG>
+      <EQPID></EQPID>
+      <LINEID></LINEID>
+      <PROCID></PROCID>
+      <PRODUCT_PLAN></PRODUCT_PLAN>
+    </ELEMENT>
+    <ITEM>
+      <ACK></ACK>
+      <REASON></REASON>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4"  ID="S6F9" NAME="Actual Processing Data Send">
+    <ELEMENT>
+      <ORG></ORG>
+      <LINEID></LINEID>
+      <EQPID></EQPID>
+      <PROCID></PROCID>
+      <SETID></SETID>
+    </ELEMENT>
+    <ITEM>
+      <SUBITEMLIST  COUNT="n">
+        <NAME></NAME>
+        <VALUE></VALUE>
+      </SUBITEMLIST>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4"  ID="S6F10" NAME="Actual Processing Data Acknowledge">
+    <ELEMENT>
+      <ORG></ORG>
+      <LINEID></LINEID>
+      <EQPID></EQPID>
+      <PROCID></PROCID>
+    </ELEMENT>
+    <ITEM>
+      <ACK></ACK>
+      <REASON></REASON>
+    </ITEM>
+  </EIF>
+ 
+  <EIF VERSION="2.4" ID="S6F11" NAME="Event Report Send">
+    <ELEMENT>
+      <EQPID></EQPID>
+      <CEID></CEID>
+      <RPTID></RPTID>
+    </ELEMENT>
+    <ITEM>
+      <SUBITEMLIST  COUNT="n">
+        <NAME></NAME>
+        <VALUE></VALUE>
+      </SUBITEMLIST>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S6F12" NAME="Event Report Acknowledge">
+    <ELEMENT>
+      <EQPID></EQPID>
+      <CEID></CEID>
+      <RPTID></RPTID>
+    </ELEMENT>
+    <ITEM>
+      <ACK></ACK>
+      <REASON></REASON>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4"  ID="S6F13" NAME="Event Report Data Send ">
+    <ELEMENT>
+      <TID></TID>
+      <WOID></WOID>
+      <ORGID></ORGID>
+      <LINEID></LINEID>
+      <EQPID></EQPID>
+      <PROCID></PROCID>
+      <SETID></SETID>
+      <CEID></CEID>
+      <MODEL>
+        <ID></ID>
+        <NAME></NAME>
+        <SUFFIX></SUFFIX>
+      </MODEL>
+    </ELEMENT>
+    <ITEM>
+      <SUBITEMLIST  COUNT="n">
+        <NAME></NAME>
+        <VALUE></VALUE>
+      </SUBITEMLIST>
+    </ITEM>
+  </EIF >
+
+  <EIF VERSION="2.4"  ID="S6F14" NAME="Event Report Data Acknowledge">
+    <ELEMENT>
+      <TID></TID>
+      <WOID></WOID>
+      <ORGID></ORGID>
+      <LINEID></LINEID>
+      <EQPID></EQPID>
+      <PROCID></PROCID>
+      <SETID></SETID>
+      <CEID></CEID>
+      <MODEL>
+        <ID></ID>
+        <NAME></NAME>
+        <SUFFIX></SUFFIX>
+      </MODEL>
+    </ELEMENT>
+    <ITEM>
+      <ACK></ACK>
+      <REASON></REASON>
+    </ITEM>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S6F15" NAME="Equipment APD Data Send">
+    <ELEMENT>
+      <ORG></ORG>
+      <LINEID></LINEID>
+      <EQPID></EQPID>
+      <PROCID></PROCID>
+      <SETID></SETID>
+    </ELEMENT>
+    <ITEM>
+      <ITEMLIST COUNT="n">
+        <ATTRIBUTE ID = "n" NAME= "" COUNT="n">
+          <VALUE>
+              <SUBITEMLIST ID ="n" NAME = "" COUNT="n" SUB_COUNT ="n">
+                      <VALUE>
+                        <ATTRIBUTE ID = "n" NAME= "" COUNT="n"/>
+                      </VALUE>
+              </SUBITEMLIST >
+          </VALUE>
+        </ATTRIBUTE>
+      </ITEMLIST >
+    </ITEM>
+  </EIF>
+  
+  <EIF VERSION="2.4" ID="S6F16" NAME="Equipment APD Data Send Acknowledge">
+    <ELEMENT>
+      <ORG></ORG>
+      <LINEID></LINEID>
+      <EQPID></EQPID>
+      <PROCID></PROCID>
+    </ELEMENT>
+    <ITEM>
+      <ACK></ACK>
+      <REASON></REASON>
+    </ITEM>
+  </EIF>
+  
+  <EIF VERSION="2.4" ID="S9F3" NAME="Unrecognized Stream Type">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S9F5" NAME="Unrecognized Function Type">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+  </EIF>
+
+  <EIF VERSION="2.4" ID="S9F9" NAME="Transaction Stream Type">
+    <ELEMENT>
+      <EQPID></EQPID>
+    </ELEMENT>
+  </EIF>
+
+
+
+
+
+</Temp>
+
+

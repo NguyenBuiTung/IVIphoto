@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC23151-BC3D-4D2B-BFB6-D58025E48D0A}|LC_Controller\\LC_Controller.csproj|D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\lc_controller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC23151-BC3D-4D2B-BFB6-D58025E48D0A}|LC_Controller\\LC_Controller.csproj|solutionrelative:lc_controller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC23151-BC3D-4D2B-BFB6-D58025E48D0A}|LC_Controller\\LC_Controller.csproj|d:\\project\\lge\\2023\\chup anh ivi\\source_code\\bk (2)\\bk\\iviphoto-last-version\\iviphoto\\lens_controller\\lc_controller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADC23151-BC3D-4D2B-BFB6-D58025E48D0A}|LC_Controller\\LC_Controller.csproj|solutionrelative:lc_controller\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC23151-BC3D-4D2B-BFB6-D58025E48D0A}|LC_Controller\\LC_Controller.csproj|D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\lc_controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC23151-BC3D-4D2B-BFB6-D58025E48D0A}|LC_Controller\\LC_Controller.csproj|solutionrelative:lc_controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC23151-BC3D-4D2B-BFB6-D58025E48D0A}|LC_Controller\\LC_Controller.csproj|D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\lc_controller\\devaddr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC23151-BC3D-4D2B-BFB6-D58025E48D0A}|LC_Controller\\LC_Controller.csproj|solutionrelative:lc_controller\\devaddr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC23151-BC3D-4D2B-BFB6-D58025E48D0A}|LC_Controller\\LC_Controller.csproj|D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\lc_controller\\configval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC23151-BC3D-4D2B-BFB6-D58025E48D0A}|LC_Controller\\LC_Controller.csproj|solutionrelative:lc_controller\\configval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PROJECT\\LGE\\Nang cap check pin 2\\Connect_Lens\\LC_Controller\\lc_controller\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PROJECT\\LGE\\Nang cap check pin 2\\Connect_Lens\\LC_Controller\\lc_controller\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PROJECT\\LGE\\Nang cap check pin 2\\Connect_Lens\\LC_Controller\\lc_controller\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\LC_Controller\\Program.cs",
+              "RelativeDocumentMoniker": "LC_Controller\\Program.cs",
+              "ToolTip": "D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\LC_Controller\\Program.cs",
+              "RelativeToolTip": "LC_Controller\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:46:04.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DevAddr.cs",
+              "DocumentMoniker": "D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\LC_Controller\\DevAddr.cs",
+              "RelativeDocumentMoniker": "LC_Controller\\DevAddr.cs",
+              "ToolTip": "D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\LC_Controller\\DevAddr.cs",
+              "RelativeToolTip": "LC_Controller\\DevAddr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:46:04.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigVal.cs",
+              "DocumentMoniker": "D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\LC_Controller\\ConfigVal.cs",
+              "RelativeDocumentMoniker": "LC_Controller\\ConfigVal.cs",
+              "ToolTip": "D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\LC_Controller\\ConfigVal.cs",
+              "RelativeToolTip": "LC_Controller\\ConfigVal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:46:04.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\PROJECT\\LGE\\Nang cap check pin 2\\Connect_Lens\\LC_Controller\\LC_Controller\\Form4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Nang cap check pin 2\\Connect_Lens\\LC_Controller\\LC_Controller\\Form4.cs",
+              "ToolTip": "D:\\PROJECT\\LGE\\Nang cap check pin 2\\3. LC_Controller_Win_C#\\3. LC_Controller_Win_C#\\Win_C#\\LC_Controller\\LC_Controller\\Form4.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Nang cap check pin 2\\3. LC_Controller_Win_C#\\3. LC_Controller_Win_C#\\Win_C#\\LC_Controller\\LC_Controller\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-22T11:46:04.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\PROJECT\\LGE\\Nang cap check pin 2\\Connect_Lens\\LC_Controller\\LC_Controller\\Form3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Nang cap check pin 2\\Connect_Lens\\LC_Controller\\LC_Controller\\Form3.cs",
+              "ToolTip": "D:\\PROJECT\\LGE\\Nang cap check pin 2\\3. LC_Controller_Win_C#\\3. LC_Controller_Win_C#\\Win_C#\\LC_Controller\\LC_Controller\\Form3.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Nang cap check pin 2\\3. LC_Controller_Win_C#\\3. LC_Controller_Win_C#\\Win_C#\\LC_Controller\\LC_Controller\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-22T11:46:04.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\PROJECT\\LGE\\Nang cap check pin 2\\Connect_Lens\\LC_Controller\\LC_Controller\\Form2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Nang cap check pin 2\\Connect_Lens\\LC_Controller\\LC_Controller\\Form2.cs",
+              "ToolTip": "D:\\PROJECT\\LGE\\Nang cap check pin 2\\3. LC_Controller_Win_C#\\3. LC_Controller_Win_C#\\Win_C#\\LC_Controller\\LC_Controller\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Nang cap check pin 2\\3. LC_Controller_Win_C#\\3. LC_Controller_Win_C#\\Win_C#\\LC_Controller\\LC_Controller\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-22T11:46:04.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\LC_Controller\\Form1.cs",
+              "RelativeDocumentMoniker": "LC_Controller\\Form1.cs",
+              "ToolTip": "D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\LC_Controller\\Form1.cs*",
+              "RelativeToolTip": "LC_Controller\\Form1.cs*",
+              "ViewState": "AQIAAOUBAAAAAAAAAIA6wPgBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:46:04.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\LC_Controller\\Form1.cs",
+              "RelativeDocumentMoniker": "LC_Controller\\Form1.cs",
+              "ToolTip": "D:\\PROJECT\\LGE\\2023\\Chup anh IVI\\SOURCE_CODE\\BK (2)\\BK\\IVIphoto-last-version\\IVIphoto\\Lens_Controller\\LC_Controller\\Form1.cs [Design]*",
+              "RelativeToolTip": "LC_Controller\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:46:04.715Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

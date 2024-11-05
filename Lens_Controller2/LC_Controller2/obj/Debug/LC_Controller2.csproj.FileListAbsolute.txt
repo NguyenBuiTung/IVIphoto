@@ -1,0 +1,40 @@
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller\obj\Debug\LC_Controller2.csproj.AssemblyReference.cache
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller\obj\Debug\LC_Controller2.Form1.resources
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller\obj\Debug\LC_Controller2.Properties.Resources.resources
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller\obj\Debug\LC_Controller2.csproj.GenerateResource.cache
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller\obj\Debug\LC_Controller2.csproj.CoreCompileInputs.cache
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller\bin\Debug\LC_Controller2.exe.config
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller\bin\Debug\LC_Controller2.exe
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller\bin\Debug\LC_Controller2.pdb
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller\obj\Debug\LC_Controller2.exe
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller\obj\Debug\LC_Controller2.pdb
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.csproj.AssemblyReference.cache
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.Form1.resources
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.Properties.Resources.resources
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.csproj.GenerateResource.cache
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.csproj.CoreCompileInputs.cache
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.exe
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.pdb
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller2\bin\Debug\LC_Controller2.exe.config
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller2\bin\Debug\LC_Controller2.exe
+C:\Soft by BAA\IVIphoto\Lens_Controller2\LC_Controller2\bin\Debug\LC_Controller2.pdb
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller2\LC_Controller2\bin\Debug\LC_Controller2.exe.config
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller2\LC_Controller2\bin\Debug\LC_Controller2.exe
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller2\LC_Controller2\bin\Debug\LC_Controller2.pdb
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.csproj.AssemblyReference.cache
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.Form1.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.Properties.Resources.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.csproj.GenerateResource.cache
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.csproj.CoreCompileInputs.cache
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.exe
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller2\LC_Controller2\bin\Debug\LC_Controller2.exe.config
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller2\LC_Controller2\bin\Debug\LC_Controller2.exe
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller2\LC_Controller2\bin\Debug\LC_Controller2.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.csproj.AssemblyReference.cache
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.Form1.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.Properties.Resources.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.csproj.GenerateResource.cache
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.csproj.CoreCompileInputs.cache
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.exe
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller2\LC_Controller2\obj\Debug\LC_Controller2.pdb

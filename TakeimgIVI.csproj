@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{ED30C209-FDE2-4B6C-9CB8-2406B9D26B9C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TakeimgIVI</RootNamespace>
+    <AssemblyName>TakeimgIVI</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>TakeimgIVI.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Advantech.Adam">
+      <HintPath>ADAM\Advantech.Adam.DLL</HintPath>
+    </Reference>
+    <Reference Include="Advantech.Common">
+      <HintPath>ADAM\Advantech.Common.DLL</HintPath>
+    </Reference>
+    <Reference Include="Advantech.Graph">
+      <HintPath>ADAM\Advantech.Graph.dll</HintPath>
+    </Reference>
+    <Reference Include="Advantech.Protocol">
+      <HintPath>ADAM\Advantech.Protocol.DLL</HintPath>
+    </Reference>
+    <Reference Include="EPPlus, Version=6.1.2.0, Culture=neutral, PublicKeyToken=ea159fdaa78159a1, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.6.1.2\lib\net462\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.Interfaces, Version=6.1.1.0, Culture=neutral, PublicKeyToken=a694d7f3b0907a61, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.Interfaces.6.1.1\lib\net462\EPPlus.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus.System.Drawing, Version=6.1.1.0, Culture=neutral, PublicKeyToken=2308d35469c9bac0, processorArchitecture=MSIL">
+      <HintPath>packages\EPPlus.System.Drawing.6.1.1\lib\net462\EPPlus.System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IO.RecyclableMemoryStream, Version=1.4.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.IO.RecyclableMemoryStream.1.4.1\lib\net46\Microsoft.IO.RecyclableMemoryStream.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MvCamCtrl.Net, Version=4.0.0.4, Culture=neutral, PublicKeyToken=52fddfb3f94be800, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Program Files (x86)\MVS\Development\DotNet\AnyCpu\MvCamCtrl.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Threading.Tasks" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADAM\ADAM.cs" />
+    <Compile Include="Camera\CameraCIC2.cs" />
+    <Compile Include="Camera\CameraCIC.cs" />
+    <Compile Include="Camera\Processimage.cs" />
+    <Compile Include="FormCheckIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCheckIO.Designer.cs">
+      <DependentUpon>FormCheckIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGmesResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGmesResult.Designer.cs">
+      <DependentUpon>FormGmesResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTestImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTestImage.Designer.cs">
+      <DependentUpon>FormTestImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmeditModel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmeditModel.Designer.cs">
+      <DependentUpon>frmeditModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmmodel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmodel.Designer.cs">
+      <DependentUpon>frmmodel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Function\ErrorControl.cs" />
+    <Compile Include="FormConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfig.Designer.cs">
+      <DependentUpon>FormConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormErrorControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormErrorControl.Designer.cs">
+      <DependentUpon>FormErrorControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormManual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormManual.Designer.cs">
+      <DependentUpon>FormManual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNotification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNotification.Designer.cs">
+      <DependentUpon>FormNotification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAccount.Designer.cs">
+      <DependentUpon>FormAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSimulation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSimulation.Designer.cs">
+      <DependentUpon>FormSimulation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Function\Constants.cs" />
+    <Compile Include="Function\Customer.cs" />
+    <Compile Include="Function\INI.cs" />
+    <Compile Include="Function\InvokeUI.cs" />
+    <Compile Include="Function\Library.cs" />
+    <Compile Include="Function\Modelcf.cs" />
+    <Compile Include="Function\Status.cs" />
+    <Compile Include="Function\Warning.cs" />
+    <Compile Include="Camera\Param.cs" />
+    <Compile Include="Lens\Lens2.cs" />
+    <Compile Include="Lens\Lens.cs" />
+    <Compile Include="MyGMES\GMES_Data.cs" />
+    <Compile Include="MyGMES\GMES_Pakage.cs" />
+    <Compile Include="MyGMES\GMES_Pakage2.cs" />
+    <Compile Include="MyGMES\GMES_Socket.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scan\Scanner.cs" />
+    <EmbeddedResource Include="FormAccount.resx">
+      <DependentUpon>FormAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCheckIO.resx">
+      <DependentUpon>FormCheckIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfig.resx">
+      <DependentUpon>FormConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormErrorControl.resx">
+      <DependentUpon>FormErrorControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGmesResult.resx">
+      <DependentUpon>FormGmesResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormManual.resx">
+      <DependentUpon>FormManual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNotification.resx">
+      <DependentUpon>FormNotification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSimulation.resx">
+      <DependentUpon>FormSimulation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTestImage.resx">
+      <DependentUpon>FormTestImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmeditModel.resx">
+      <DependentUpon>frmeditModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmodel.resx">
+      <DependentUpon>frmmodel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Lens_Controller2\LC_Controller2\LC_Controller2.csproj">
+      <Project>{44afc7cd-c0f9-4ce6-9c97-b457af3def9b}</Project>
+      <Name>LC_Controller2</Name>
+    </ProjectReference>
+    <ProjectReference Include="Lens_Controller\LC_Controller\LC_Controller.csproj">
+      <Project>{adc23151-bc3d-4d2b-bfb6-d58025e48d0a}</Project>
+      <Name>LC_Controller</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

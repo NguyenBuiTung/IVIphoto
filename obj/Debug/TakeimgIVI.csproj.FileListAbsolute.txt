@@ -1,0 +1,245 @@
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.AssemblyReference.cache
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormAccount.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormCheckIO.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormConfig.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormErrorControl.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormLogin.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormMain.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormManual.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormNotification.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormSimulation.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormTestImage.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.frmeditModel.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.frmmodel.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.Properties.Resources.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.GenerateResource.cache
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.CoreCompileInputs.cache
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.pdb
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.exe.config
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.pdb
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Advantech.Adam.DLL
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Advantech.Common.DLL
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Advantech.Graph.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Advantech.Protocol.DLL
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\EPPlus.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\EPPlus.Interfaces.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\EPPlus.System.Drawing.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Newtonsoft.Json.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.pdb
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.exe.config
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller.exe.config
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\EPPlus.xml
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Newtonsoft.Json.xml
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.CopyComplete
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.exe.config
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.exe
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.pdb
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Advantech.Adam.DLL
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Advantech.Common.DLL
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Advantech.Graph.dll
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Advantech.Protocol.DLL
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\EPPlus.dll
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\EPPlus.Interfaces.dll
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\EPPlus.System.Drawing.dll
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\LC_Controller.exe
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.exe
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Newtonsoft.Json.dll
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.pdb
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.exe.config
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\LC_Controller.pdb
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\LC_Controller.exe.config
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\EPPlus.xml
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Newtonsoft.Json.xml
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.AssemblyReference.cache
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormAccount.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormCheckIO.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormConfig.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormErrorControl.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormGmesResult.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormLogin.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormMain.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormManual.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormNotification.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormSimulation.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormTestImage.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.frmeditModel.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.frmmodel.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.Properties.Resources.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.GenerateResource.cache
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.CoreCompileInputs.cache
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.CopyComplete
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.exe
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.exe.config
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.exe
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Advantech.Adam.DLL
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Advantech.Common.DLL
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Advantech.Graph.dll
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Advantech.Protocol.DLL
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\EPPlus.dll
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\EPPlus.Interfaces.dll
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\EPPlus.System.Drawing.dll
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller.exe
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.exe
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Newtonsoft.Json.dll
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.exe.config
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller.exe.config
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\EPPlus.xml
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Newtonsoft.Json.xml
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.AssemblyReference.cache
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormAccount.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormCheckIO.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormConfig.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormErrorControl.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormGmesResult.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormLogin.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormMain.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormManual.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormNotification.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormSimulation.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormTestImage.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.frmeditModel.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.frmmodel.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.Properties.Resources.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.GenerateResource.cache
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.CoreCompileInputs.cache
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.CopyComplete
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.exe
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.pdb
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\TakeimgIVI.exe.config
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\TakeimgIVI.exe
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\TakeimgIVI.pdb
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Advantech.Adam.DLL
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Advantech.Common.DLL
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Advantech.Graph.dll
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Advantech.Protocol.DLL
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\EPPlus.dll
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\EPPlus.Interfaces.dll
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\EPPlus.System.Drawing.dll
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\LC_Controller.exe
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\LC_Controller2.exe
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Newtonsoft.Json.dll
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\LC_Controller2.pdb
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\LC_Controller2.exe.config
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\LC_Controller.pdb
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\LC_Controller.exe.config
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\EPPlus.xml
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Newtonsoft.Json.xml
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.csproj.AssemblyReference.cache
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormAccount.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormCheckIO.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormConfig.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormErrorControl.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormGmesResult.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormLogin.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormMain.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormManual.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormNotification.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormSimulation.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormTestImage.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.frmeditModel.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.frmmodel.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.Properties.Resources.resources
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.csproj.GenerateResource.cache
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.csproj.CoreCompileInputs.cache
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.csproj.CopyComplete
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.exe
+C:\Soft by BAA\App-last-version\App\Communication\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\TakeimgIVI.exe.config
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\TakeimgIVI.exe
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\TakeimgIVI.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Advantech.Adam.DLL
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Advantech.Common.DLL
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Advantech.Graph.dll
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Advantech.Protocol.DLL
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\EPPlus.dll
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\EPPlus.Interfaces.dll
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\EPPlus.System.Drawing.dll
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\LC_Controller.exe
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\LC_Controller2.exe
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Newtonsoft.Json.dll
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\LC_Controller2.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\LC_Controller2.exe.config
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\LC_Controller.exe.config
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\EPPlus.xml
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\bin\Debug\Newtonsoft.Json.xml
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.csproj.AssemblyReference.cache
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormAccount.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormCheckIO.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormConfig.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormErrorControl.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormGmesResult.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormLogin.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormMain.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormManual.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormNotification.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormSimulation.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.FormTestImage.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.frmeditModel.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.frmmodel.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.Properties.Resources.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.csproj.GenerateResource.cache
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.csproj.CoreCompileInputs.cache
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.exe
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\obj\Debug\TakeimgIVI.csproj.Up2Date
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.exe.config
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.exe
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.pdb
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\Advantech.Adam.DLL
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\Advantech.Common.DLL
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\Advantech.Graph.dll
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\Advantech.Protocol.DLL
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\EPPlus.dll
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\LC_Controller.exe
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.exe
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.pdb
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.exe.config
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\LC_Controller.pdb
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\LC_Controller.exe.config
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\EPPlus.xml
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.AssemblyReference.cache
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormAccount.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormCheckIO.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormConfig.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormErrorControl.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormGmesResult.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormLogin.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormMain.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormManual.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormNotification.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormSimulation.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormTestImage.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.frmeditModel.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.frmmodel.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.Properties.Resources.resources
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.GenerateResource.cache
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.CoreCompileInputs.cache
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.csproj.Up2Date
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.exe
+C:\Users\vluan\OneDrive\Máy tính\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.pdb

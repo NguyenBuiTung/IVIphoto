@@ -1,0 +1,314 @@
+D:\Program\C#\RSI\bin\Debug\RSI.exe.config
+D:\Program\C#\RSI\bin\Debug\RSI.exe
+D:\Program\C#\RSI\bin\Debug\RSI.pdb
+D:\Program\C#\RSI\obj\Debug\RSI.csproj.AssemblyReference.cache
+D:\Program\C#\RSI\obj\Debug\RSI.csproj.SuggestedBindingRedirects.cache
+D:\Program\C#\RSI\obj\Debug\RSI.Properties.Resources.resources
+D:\Program\C#\RSI\obj\Debug\RSI.csproj.GenerateResource.cache
+D:\Program\C#\RSI\obj\Debug\RSI.csproj.CoreCompileInputs.cache
+D:\Program\C#\RSI\obj\Debug\RSI.exe
+D:\Program\C#\RSI\obj\Debug\RSI.pdb
+D:\Program\C#\RSI\bin\Debug\MvCamCtrl.Net.dll
+D:\Program\C#\RSI\bin\Debug\MvCamCtrl.Net.xml
+D:\Program\C#\RSI\obj\Debug\RSI.csproj.CopyComplete
+D:\Program\C#\RSI\obj\Debug\RSI.FormConfig.resources
+D:\Program\C#\RSI\obj\Debug\RSI.FormMain.resources
+D:\Project\LGE\2022\RSI\bin\Debug\RSI.exe.config
+D:\Project\LGE\2022\RSI\bin\Debug\RSI.exe
+D:\Project\LGE\2022\RSI\bin\Debug\RSI.pdb
+D:\Project\LGE\2022\RSI\bin\Debug\MvCamCtrl.Net.xml
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.csproj.AssemblyReference.cache
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.csproj.SuggestedBindingRedirects.cache
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.FormConfig.resources
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.FormMain.resources
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.FormNotification.resources
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.Properties.Resources.resources
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.csproj.GenerateResource.cache
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.csproj.CoreCompileInputs.cache
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.csproj.CopyComplete
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.exe
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.pdb
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.FormLogin.resources
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.FormAccount.resources
+D:\Project\LGE\2022\RSI\bin\Debug\MvCamCtrl.Net.dll
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.FormManual.resources
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.FormSimulation.resources
+D:\Project\LGE\2022\RSI\bin\Debug\Advantech.Adam.DLL
+D:\Project\LGE\2022\RSI\bin\Debug\Advantech.Protocol.DLL
+D:\Project\LGE\2022\RSI\bin\Debug\Advantech.Common.dll
+D:\Project\LGE\2022\RSI\obj\Debug\Interop.ActUtlType64Lib.dll
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.csproj.ResolveComReference.cache
+D:\Project\LGE\2022\RSI\bin\Debug\EPPlus.dll
+D:\Project\LGE\2022\RSI\bin\Debug\EPPlus.Interfaces.dll
+D:\Project\LGE\2022\RSI\bin\Debug\EPPlus.System.Drawing.dll
+D:\Project\LGE\2022\RSI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Project\LGE\2022\RSI\bin\Debug\EPPlus.xml
+D:\Project\LGE\2022\RSI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Project\LGE\2022\RSI\obj\Debug\RSI.FormErrorControl.resources
+C:\RSI\bin\Debug\RSI.exe.config
+C:\RSI\bin\Debug\RSI.exe
+C:\RSI\bin\Debug\RSI.pdb
+C:\RSI\bin\Debug\EPPlus.dll
+C:\RSI\bin\Debug\EPPlus.Interfaces.dll
+C:\RSI\bin\Debug\EPPlus.System.Drawing.dll
+C:\RSI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\RSI\bin\Debug\EPPlus.xml
+C:\RSI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\RSI\bin\Debug\MvCamCtrl.Net.xml
+C:\RSI\obj\Debug\RSI.csproj.AssemblyReference.cache
+C:\RSI\obj\Debug\RSI.csproj.SuggestedBindingRedirects.cache
+C:\RSI\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\RSI\obj\Debug\RSI.csproj.ResolveComReference.cache
+C:\RSI\obj\Debug\RSI.FormAccount.resources
+C:\RSI\obj\Debug\RSI.FormConfig.resources
+C:\RSI\obj\Debug\RSI.FormErrorControl.resources
+C:\RSI\obj\Debug\RSI.FormLogin.resources
+C:\RSI\obj\Debug\RSI.FormMain.resources
+C:\RSI\obj\Debug\RSI.FormManual.resources
+C:\RSI\obj\Debug\RSI.FormNotification.resources
+C:\RSI\obj\Debug\RSI.FormSimulation.resources
+C:\RSI\obj\Debug\RSI.Properties.Resources.resources
+C:\RSI\obj\Debug\RSI.csproj.GenerateResource.cache
+C:\RSI\obj\Debug\RSI.csproj.CoreCompileInputs.cache
+C:\RSI\obj\Debug\RSI.csproj.CopyComplete
+C:\RSI\obj\Debug\RSI.exe
+C:\RSI\obj\Debug\RSI.pdb
+C:\RSI\bin\Debug\MvCamCtrl.Net.dll
+C:\RSI - Thanh\bin\Debug\RSI.exe.config
+C:\RSI - Thanh\bin\Debug\RSI.exe
+C:\RSI - Thanh\bin\Debug\RSI.pdb
+C:\RSI - Thanh\bin\Debug\EPPlus.dll
+C:\RSI - Thanh\bin\Debug\EPPlus.Interfaces.dll
+C:\RSI - Thanh\bin\Debug\EPPlus.System.Drawing.dll
+C:\RSI - Thanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\RSI - Thanh\bin\Debug\MvCamCtrl.Net.dll
+C:\RSI - Thanh\bin\Debug\EPPlus.xml
+C:\RSI - Thanh\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\RSI - Thanh\bin\Debug\MvCamCtrl.Net.xml
+C:\RSI - Thanh\obj\Debug\RSI.csproj.AssemblyReference.cache
+C:\RSI - Thanh\obj\Debug\RSI.csproj.SuggestedBindingRedirects.cache
+C:\RSI - Thanh\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\RSI - Thanh\obj\Debug\RSI.csproj.ResolveComReference.cache
+C:\RSI - Thanh\obj\Debug\RSI.FormAccount.resources
+C:\RSI - Thanh\obj\Debug\RSI.FormConfig.resources
+C:\RSI - Thanh\obj\Debug\RSI.FormErrorControl.resources
+C:\RSI - Thanh\obj\Debug\RSI.FormLogin.resources
+C:\RSI - Thanh\obj\Debug\RSI.FormMain.resources
+C:\RSI - Thanh\obj\Debug\RSI.FormManual.resources
+C:\RSI - Thanh\obj\Debug\RSI.FormNotification.resources
+C:\RSI - Thanh\obj\Debug\RSI.FormSimulation.resources
+C:\RSI - Thanh\obj\Debug\RSI.Properties.Resources.resources
+C:\RSI - Thanh\obj\Debug\RSI.csproj.GenerateResource.cache
+C:\RSI - Thanh\obj\Debug\RSI.csproj.CoreCompileInputs.cache
+C:\RSI - Thanh\obj\Debug\RSI.csproj.CopyComplete
+C:\RSI - Thanh\obj\Debug\RSI.exe
+C:\RSI - Thanh\obj\Debug\RSI.pdb
+D:\RSI\bin\Debug\RSI.exe.config
+D:\RSI\bin\Debug\RSI.exe
+D:\RSI\bin\Debug\RSI.pdb
+D:\RSI\bin\Debug\EPPlus.dll
+D:\RSI\bin\Debug\EPPlus.Interfaces.dll
+D:\RSI\bin\Debug\EPPlus.System.Drawing.dll
+D:\RSI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\RSI\bin\Debug\EPPlus.xml
+D:\RSI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\RSI\obj\Debug\RSI.csproj.AssemblyReference.cache
+D:\RSI\obj\Debug\RSI.csproj.SuggestedBindingRedirects.cache
+D:\RSI\obj\Debug\Interop.ActUtlType64Lib.dll
+D:\RSI\obj\Debug\RSI.csproj.ResolveComReference.cache
+D:\RSI\obj\Debug\RSI.FormAccount.resources
+D:\RSI\obj\Debug\RSI.FormConfig.resources
+D:\RSI\obj\Debug\RSI.FormErrorControl.resources
+D:\RSI\obj\Debug\RSI.FormLogin.resources
+D:\RSI\obj\Debug\RSI.FormMain.resources
+D:\RSI\obj\Debug\RSI.FormManual.resources
+D:\RSI\obj\Debug\RSI.FormNotification.resources
+D:\RSI\obj\Debug\RSI.FormSimulation.resources
+D:\RSI\obj\Debug\RSI.Properties.Resources.resources
+D:\RSI\obj\Debug\RSI.csproj.GenerateResource.cache
+D:\RSI\obj\Debug\RSI.csproj.CoreCompileInputs.cache
+D:\RSI\obj\Debug\RSI.csproj.CopyComplete
+D:\RSI\obj\Debug\RSI.exe
+D:\RSI\obj\Debug\RSI.pdb
+D:\Ban giao\RSI\obj\Debug\RSI.csproj.AssemblyReference.cache
+D:\Ban giao\RSI\obj\Debug\RSI.csproj.SuggestedBindingRedirects.cache
+D:\Ban giao\RSI\obj\Debug\RSI.csproj.ResolveComReference.cache
+D:\Ban giao\RSI\obj\Debug\RSI.FormAccount.resources
+D:\Ban giao\RSI\obj\Debug\RSI.FormConfig.resources
+D:\Ban giao\RSI\obj\Debug\RSI.FormErrorControl.resources
+D:\Ban giao\RSI\obj\Debug\RSI.FormLogin.resources
+D:\Ban giao\RSI\obj\Debug\RSI.FormMain.resources
+D:\Ban giao\RSI\obj\Debug\RSI.FormManual.resources
+D:\Ban giao\RSI\obj\Debug\RSI.FormNotification.resources
+D:\Ban giao\RSI\obj\Debug\RSI.FormSimulation.resources
+D:\Ban giao\RSI\obj\Debug\RSI.Properties.Resources.resources
+D:\Ban giao\RSI\obj\Debug\RSI.csproj.GenerateResource.cache
+D:\Ban giao\RSI\obj\Debug\RSI.csproj.CoreCompileInputs.cache
+D:\Ban giao\RSI\obj\Debug\RSI.exe
+D:\Ban giao\RSI\obj\Debug\RSI.pdb
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\bin\Debug\RSI.exe.config
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\bin\Debug\RSI.exe
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\bin\Debug\RSI.pdb
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\bin\Debug\EPPlus.dll
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\bin\Debug\EPPlus.Interfaces.dll
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\bin\Debug\EPPlus.System.Drawing.dll
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\bin\Debug\EPPlus.xml
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.csproj.AssemblyReference.cache
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\Interop.ActUtlType64Lib.dll
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.csproj.ResolveComReference.cache
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.FormAccount.resources
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.FormConfig.resources
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.FormErrorControl.resources
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.FormLogin.resources
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.FormMain.resources
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.FormManual.resources
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.FormNotification.resources
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.FormSimulation.resources
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.Properties.Resources.resources
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.csproj.GenerateResource.cache
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.csproj.CoreCompileInputs.cache
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.csproj.CopyComplete
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.exe
+D:\Ban Giao\Duc-IIA ban giao\LGE\RSI\RSI\RSI\obj\Debug\RSI.pdb
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.csproj.AssemblyReference.cache
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.csproj.SuggestedBindingRedirects.cache
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.FormAccount.resources
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.FormConfig.resources
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.FormErrorControl.resources
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.FormLogin.resources
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.FormMain.resources
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.FormManual.resources
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.FormNotification.resources
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.FormSimulation.resources
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.Properties.Resources.resources
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.csproj.GenerateResource.cache
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.csproj.CoreCompileInputs.cache
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.exe
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.pdb
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\RSI.exe.config
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\RSI.exe
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\RSI.pdb
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\Advantech.Adam.DLL
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\Advantech.Common.DLL
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\Advantech.Graph.dll
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\Advantech.Protocol.DLL
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\EPPlus.dll
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\EPPlus.Interfaces.dll
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\EPPlus.System.Drawing.dll
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\EPPlus.xml
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Công việc\LGE\Chup anh IVI\RSI\RSI\RSI\RSI\obj\Debug\RSI.csproj.CopyComplete
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\RSI.exe.config
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\RSI.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\RSI.pdb
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\Advantech.Adam.DLL
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\Advantech.Common.DLL
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\Advantech.Graph.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\Advantech.Protocol.DLL
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\EPPlus.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\EPPlus.Interfaces.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\EPPlus.System.Drawing.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\LC_Controller.exe.config
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\EPPlus.xml
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.csproj.AssemblyReference.cache
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.FormAccount.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.FormConfig.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.FormErrorControl.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.FormLogin.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.FormMain.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.FormManual.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.FormNotification.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.FormSimulation.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.Properties.Resources.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.csproj.GenerateResource.cache
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.csproj.CoreCompileInputs.cache
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.csproj.CopyComplete
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.pdb
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.frmmodel.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.frmeditModel.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.FormTestImage.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\obj\Debug\RSI.FormCheckIO.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\RSI.exe.config
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\RSI.exe
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\RSI.pdb
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Advantech.Adam.DLL
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Advantech.Common.DLL
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Advantech.Graph.dll
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Advantech.Protocol.DLL
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\EPPlus.dll
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\EPPlus.Interfaces.dll
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\EPPlus.System.Drawing.dll
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\LC_Controller.exe
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\LC_Controller.pdb
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\LC_Controller.exe.config
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\EPPlus.xml
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.csproj.AssemblyReference.cache
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.FormAccount.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.FormCheckIO.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.FormConfig.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.FormErrorControl.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.FormLogin.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.FormMain.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.FormManual.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.FormNotification.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.FormSimulation.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.FormTestImage.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.frmeditModel.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.frmmodel.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.Properties.Resources.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.csproj.GenerateResource.cache
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.csproj.CoreCompileInputs.cache
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.csproj.CopyComplete
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.exe
+C:\Soft by BAA\IVIphoto\IVIphoto\obj\Debug\RSI.pdb
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.exe
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.pdb
+C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.exe.config
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\RSI.csproj.AssemblyReference.cache
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormAccount.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormCheckIO.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormConfig.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormErrorControl.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormLogin.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormMain.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormManual.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormNotification.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormSimulation.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.FormTestImage.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.frmeditModel.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.frmmodel.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.Properties.Resources.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\RSI.csproj.GenerateResource.cache
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\RSI.csproj.CoreCompileInputs.cache
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.exe.config
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\TakeimgIVI.pdb
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Advantech.Adam.DLL
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Advantech.Common.DLL
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Advantech.Graph.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Advantech.Protocol.DLL
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\EPPlus.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\EPPlus.Interfaces.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\EPPlus.System.Drawing.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.pdb
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller2.exe.config
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\LC_Controller.exe.config
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\EPPlus.xml
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\RSI.csproj.CopyComplete
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\IVIphoto\obj\Debug\TakeimgIVI.pdb

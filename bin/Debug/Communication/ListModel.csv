@@ -1,0 +1,30 @@
+ID,Name,PathImage,Exposuer1,Exposuer2,Gain1,Gain2,Focus1,Focus2,Iris1,Iris2,widthbegin1,widthend1,heightbegin1,heightend1,widthbegin2,widthend2,heightbegin2,heightend2,sensorindex,lengthbarcode
+1,JIG3-X52,D:\ImageModel\JIG3-X52.png,18000,18000,0.40,0.40,1000,1000,0,0,0.00,0.00,0.00,0.00,0.20,0.80,0.20,0.70,1,17
+2,JIG4-Skoda IID Cluster,D:\ImageModel\JIG4-Skoda IID Cluster.png,18000,18000,0.40,0.40,1000,1000,0,0,0.00,0.00,0.00,0.00,0.20,0.80,0.25,0.65,1,15
+3,JIG4-VW IID Cluster,D:\ImageModel\JIG4-VW IID Cluster.png,18000,18000,0.40,0.40,1000,1000,0,0,0.00,0.00,0.00,0.00,0.20,0.80,0.25,0.65,1,15
+4,JIG11-HBC,D:\ImageModel\JIG11-HBC.png,18000,18000,0.40,0.40,1000,1000,0,0,0.00,0.00,0.00,0.00,0.10,0.80,0.20,0.80,1,15
+5,JIG9-HJD,D:\ImageModel\JIG9-HJD.png,18000,18000,0.40,0.40,1000,1000,0,0,0.00,0.00,0.00,0.00,0.10,0.80,0.20,0.80,1,15
+6,JIG9-CCS3,D:\ImageModel\JIG9-CCS3.png,20000,20000,0.40,0.40,1000,1000,0,0,0.00,0.00,0.00,0.00,0.10,0.80,0.23,0.77,1,17
+7,JIG5-RBC,D:\ImageModel\JIG5-RBC.png,19000,19000,0.40,0.40,1000,1000,0,0,0.00,0.00,0.00,0.00,0.20,0.80,0.30,0.70,1,17
+8,JIG11-Maccan,D:\ImageModel\JIG11-Maccan.png,18000,18000,0.40,0.40,1030,1030,0,0,0.00,0.00,0.00,0.00,0.10,0.90,0.20,0.80,1,15
+9,JIG1-J1 Cluster,D:\ImageModel\JIG1-J1 Cluster.png,19000,19000,0.20,0.20,1200,1000,0,0,0.40,0.95,0.20,0.80,0.20,0.95,0.20,0.80,1,15
+10,JIG 8 Gen 1 Front,D:\ImageModel\JIG11-Maccan.png,18000,10000,0.40,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,0,15
+11,JIG 8 Gen 2 Front,D:\ImageModel\JIG11-HBC.png,18000,10000,0.40,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,0,15
+12,JIG X62,D:\ImageModel\JIG11-Maccan.png,18000,10000,0.40,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,1,15
+13,JIG 3 Bently,D:\ImageModel\161905.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,1,15
+14,JIG 2 MPC,D:\ImageModel\JIG1-J1 Cluster.png,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,1,15
+15,JIG 4 Truck,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,1,17
+16,JIG5 SF3,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,1,15
+17,JIG 6 E3/G3 Cluster,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,0,15
+18,JIG 5 F39,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,0,15
+19,JIG 5 F52,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,0,15
+20,JIG 7 MFA CID,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,1.00,0.00,1.00,0.00,1.00,0.00,1.00,0,15
+21,JIG 7 HUYNDAI Cluster,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,1.00,0.00,1.00,0.00,1.00,0.00,1.00,0,15
+22,JIG 7 AZV,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,15000,15000,0.60,0.60,1200,1000,0,0,0.00,1.00,0.00,1.00,0.00,1.00,0.00,1.00,0,15
+23,JIG 9 G3 CID,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,0,15
+24,MRA2,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,0,15
+25,JIG 10 GEN 4,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,0,15
+26,JIG 10 GEN 1 REAR,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,0,15
+27,JIG 10 GEN 2 REAR,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,0,15
+28,JIG 11 Faceplate,C:\Soft by BAA\IVIphoto\IVIphoto\bin\Debug/Communication/newmodel.jpg,18000,18000,0.60,0.60,1000,950,0,0,0.00,0.00,0.00,0.00,0.20,0.80,0.20,0.70,0,17
+29,JIG 11 RN-Ford CID,D:\ImageModel\JIG9-CCS3.png,18000,10000,0.60,0.60,1000,1000,0,0,0.00,0.00,0.00,0.00,0.00,1.00,0.00,1.00,0,15

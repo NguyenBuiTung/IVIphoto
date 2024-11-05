@@ -1,0 +1,100 @@
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\bin\Debug\LC_Controller.exe.config
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\bin\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\bin\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.AssemblyReference.cache
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form1.resources
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form2.resources
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form3.resources
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form4.resources
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Properties.Resources.resources
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.GenerateResource.cache
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.CoreCompileInputs.cache
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\obj\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Nang cap check pin 2\3. LC_Controller_Win_C#\3. LC_Controller_Win_C#\Win_C#\LC_Controller\LC_Controller\obj\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\bin\Debug\LC_Controller.exe.config
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\bin\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\bin\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.AssemblyReference.cache
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form1.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form2.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form3.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form4.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Properties.Resources.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.GenerateResource.cache
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.CoreCompileInputs.cache
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\obj\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Nang cap check pin 2\Connect_Lens\LC_Controller\LC_Controller\obj\Debug\LC_Controller.pdb
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\bin\Debug\LC_Controller.exe.config
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\bin\Debug\LC_Controller.exe
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\bin\Debug\LC_Controller.pdb
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.AssemblyReference.cache
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form1.resources
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form2.resources
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form3.resources
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form4.resources
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Properties.Resources.resources
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.GenerateResource.cache
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.CoreCompileInputs.cache
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.exe
+F:\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\bin\Debug\LC_Controller.exe.config
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\bin\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\bin\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.AssemblyReference.cache
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form1.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form2.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form3.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form4.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Properties.Resources.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.GenerateResource.cache
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.CoreCompileInputs.cache
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket\LC_Controller\LC_Controller\obj\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\bin\Debug\LC_Controller.exe.config
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\bin\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\bin\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.AssemblyReference.cache
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form1.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form2.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form3.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Form4.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\obj\Debug\LC_Controller.Properties.Resources.resources
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.GenerateResource.cache
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.CoreCompileInputs.cache
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\obj\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Nang cap check pin 2\Check Pins 2\Check Pins 2 Update PLC Socket - 9\LC_Controller\LC_Controller\obj\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\bin\Debug\LC_Controller.exe.config
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\bin\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\bin\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.AssemblyReference.cache
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.Form1.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.Form2.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.Form3.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.Form4.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.Properties.Resources.resources
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.GenerateResource.cache
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.CoreCompileInputs.cache
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.exe
+D:\PROJECT\LGE\Chup anh IVI\SOURCE_CODE\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.pdb
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller\LC_Controller\bin\Debug\LC_Controller.exe.config
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller\LC_Controller\bin\Debug\LC_Controller.exe
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller\LC_Controller\bin\Debug\LC_Controller.pdb
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.AssemblyReference.cache
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.Form1.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.Properties.Resources.resources
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.GenerateResource.cache
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.CoreCompileInputs.cache
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.exe
+C:\Soft by BAA\IVIphoto\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller\LC_Controller\bin\Debug\LC_Controller.exe.config
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller\LC_Controller\bin\Debug\LC_Controller.exe
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller\LC_Controller\bin\Debug\LC_Controller.pdb
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.AssemblyReference.cache
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.Form1.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.Properties.Resources.resources
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.GenerateResource.cache
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.csproj.CoreCompileInputs.cache
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.exe
+D:\PROJECT\LGE\2023\Chup anh IVI\SOURCE_CODE\BK (2)\BK\IVIphoto-last-version\IVIphoto\Lens_Controller\LC_Controller\obj\Debug\LC_Controller.pdb

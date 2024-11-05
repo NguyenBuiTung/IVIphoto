@@ -1,0 +1,48 @@
+[15:45:08:751] [INFO] : [15:45:08:747] [INFO] : Connect to Barcode successfully!
+[15:45:08:779] [INFO] : [15:45:08:779] [INFO] : ADMAM[]: Disconnected!
+[15:45:08:878] [INFO] : [15:45:08:877] [INFO] : ADMAM[]: Connected!
+[15:45:08:973] [INFO] : [15:45:08:973] START - BYPASS MODE
+[15:45:09:351] [INFO] : [15:45:09:350] [INFO] : Get Device Camera 1 successfully!
+[15:45:09:519] [INFO] : [15:45:09:518] [INFO] : Connect to Lens1 successfully
+[15:45:09:567] [INFO] : [15:45:09:566] [INFO] : Connect to Lens2 successfully
+[15:45:09:883] [INFO] : [15:45:09:883] [INFO] : The camera 1 can be controlled now
+[15:45:13:980] [INFO] : [15:45:13:978] [INFO] : Done Load
+[15:45:14:129] [INFO] : [15:45:14:127] START - BYPASS MODE
+[15:45:14:325] [INFO] : [15:45:14:325] [INFO] : Get Device Camera 2 successfully!
+[15:45:14:794] [INFO] : [15:45:14:794] [INFO] : The camera 2 can be controlled now
+[16:00:17:379] [RECV] : [16:00:17:379] [RECV] : Model Change []: 
+[16:00:17:595] [INFO] : [16:00:17:593] [INFO] : LENS1[]: Set Focus:1000, Iris:0 successfully
+[16:00:17:793] [INFO] : [16:00:17:793] [INFO] : LENS2[]: Set Focus:1000, Iris:0 successfully
+[16:00:17:812] [INFO] : [16:00:17:810] [INFO] : CAMERA1[]: Set Exposure:18000, Gain:0.4 successfully
+[16:00:17:830] [INFO] : [16:00:17:829] [INFO] : CAMERA2[]: Set Exposure:18000, Gain:0.4 successfully
+[16:00:17:831] [RECV] : [16:00:17:830] [RECV] : Model Change []: JIG3-X52
+[16:00:18:819] [INFO] : [16:00:18:817] START - MANUAL MODE
+[16:00:22:130] [INFO] : [16:00:22:129] START - AUTO MODE
+[16:00:23:126] [INFO] : [16:00:23:125] [INFO] : Process[] BEGIN . . . 
+[16:00:23:132] [INFO] : [16:00:23:131] [INFO] : Trigger SCAN
+[16:00:23:531] [RECV] : [16:00:23:529] [RECV] : Barcode []: 3AMAS024-716378
+[16:00:23:556] [INFO] : [16:00:23:555] [INFO] : Trigger CAMERA1
+[16:00:24:060] [INFO] : [16:00:24:060] [INFO] : Trigger CAMERA2
+[16:00:24:651] [INFO] : [16:00:24:650] [INFO] : Process[] END . . .
+[16:00:24:881] [INFO] : [16:00:24:880] [INFO] : Save Image successfully
+[16:00:26:159] [INFO] : [16:00:26:159] START - MANUAL MODE
+[16:01:06:462] [INFO] : [16:01:06:461] Open Connection to GMES
+[16:01:07:056] [INFO] : [16:01:07:056] RECV S1F2 Pakage Data From GMES Successfully !
+[16:01:12:085] [INFO] : [16:01:12:084] START - AUTO MODE
+[16:01:13:094] [INFO] : [16:01:13:093] [INFO] : Process[] BEGIN . . . 
+[16:01:13:098] [INFO] : [16:01:13:097] [INFO] : Trigger SCAN
+[16:01:13:486] [RECV] : [16:01:13:481] [RECV] : Barcode []: 3AMAS024-716378
+[16:01:13:509] [SEND] : [16:01:13:509] Send Barcode to GMES
+[16:01:13:572] [INFO] : [16:01:13:572] [INFO] : Trigger CAMERA1
+[16:01:13:710] [INFO] : [16:01:13:709] GMES Check Barcode Successfully !
+[16:01:13:759] [INFO] : [16:01:13:758] Received Product Infomation Success
+[16:01:13:779] [INFO] : [16:01:13:778] Received S6F5 successfully
+[16:01:14:033] [INFO] : [16:01:14:032] [INFO] : Trigger CAMERA2
+[16:01:14:557] [INFO] : [16:01:14:556] [INFO] : Process[] END . . .
+[16:01:14:710] [INFO] : [16:01:14:709] [INFO] : Save Image successfully
+[16:01:15:900] [INFO] : [16:01:15:900] START - MANUAL MODE
+[16:01:18:126] [SEND] : [16:01:18:125] Send Result Vision to GMES
+[16:01:18:358] [INFO] : [16:01:18:358] Sending Inspection to GMES Successfully !
+[16:03:23:866] [INFO] : Close Application
+[16:03:24:371] [INFO] : [16:03:24:371] [INFO] : Device has been Camera 1 closed
+[16:03:24:891] [INFO] : [16:03:24:890] [INFO] : Device has been Camera 2 closed
